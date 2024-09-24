@@ -1,0 +1,53 @@
+{
+	"header": {
+		"title": "Expert Assessment",
+		"home": "Home",
+		"about": "About us"
+	},
+
+	"footer": {
+		"author": "Author of this project",
+		"name": "Parfenova Polina",
+		"stack": "Technology stack"
+	},
+
+	"login": {
+		"name": "Name",
+		"email": "Email",
+		"password": "Password",
+		"confirmPassword": "Confirm password",
+		"signIn": "Sign in",
+		"signUp": "Sign up",
+		"create": "Create account",
+		"login": "Login to account",
+		"authorization": "Authorization",
+		"registration": "Registration",
+		"errorSignIn": "Incorrect email or password",
+		"errorSignUp": "A user with such an email already exists",
+		"errorPassword": "Passwords don't match"
+	},
+
+	"home": {
+		"allThemes": "Available themes",
+		"averageValue": "Average rating",
+		"yourValue": "Your assessment",
+		"value": "Value",
+		"noTheme": "Choose a theme above",
+		"save": "Submit"
+	},
+
+	"profile": {
+		"name": "Name",
+		"email": "Email",
+		"rating": "Your ratings",
+		"value": "Value"
+	},
+
+	"about": {
+		"title": "Frequently asked Questions",
+		"text1": "1. What is this website for? This website is an assistant in choosing the most relevant and liked interior by the largest number of users. Interior (from Latin interior — located inside, deep) is the interior space of a house, apartment or any other room.",
+		"text2": "2. How can this site help? If you are planning to make repairs in your apartment right now, then this service will certainly help you decide which room interior is right for you.",
+		"text3": "3. What interiors are presented on your website? The interiors selected on the website include all the latest trends in the field of interior design: Scandinavian style, minimalism, eclecticism, neoclassical, vintage, modern, chalet, grunge.",
+		"text4": "4. How should I evaluate the interior? In order for the assessment to be as objective as possible, we ask you to pay attention to the assessment. First of all, carefully study the image, all the details, and then evaluate it on a one-hundred-point scale by dragging the slider. In order for your result to be recorded in the general statistics, click the 'Save' button."
+	}
+}
